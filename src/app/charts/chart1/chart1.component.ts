@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class Chart1Component {
 
+  data = [
+    125, 100, 50, 75, 200
+  ];
+  
 }
